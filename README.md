@@ -1,4 +1,4 @@
-# Homestuck YouTube mode [Mod]
+# Homestuck YouTube Mode [Mod]
 This is a Homestuck mod for The Unofficial Homestuck Collection. The purpose of this mod is to optimize Homestuck for Let's Reads on YouTube. It does the following:
 
 Plays music as you read (unlocks on page 440) (Optional)
