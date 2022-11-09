@@ -22,7 +22,7 @@ Warns about copyrighted music
 Removes slurs (The original Homestuck contains 58 instances of the R slur and 2 instances of the F slur - assuming we didn't miss some. This mod replaces them with other words. We cannot guarantee we caught them all, however.)
 
 # Usage
-Extract the zip and copy the "youtube_mode" folder into the "mods" folder in your assets directory.
+Extract the zip and copy the "youtube_mode" folder into the "mods" folder in your assets directory. Then enable the mod in settings.
 
 # Compatibility
 Tested on versions 2.0.5 and 2.0.6-pre-relase. Behavior on other versions is unknown.
