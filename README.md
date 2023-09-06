@@ -25,7 +25,7 @@ Removes slurs (The original Homestuck contains 58 instances of the R slur and 2 
 Extract the zip and copy the "youtube_mode" folder into the "mods" folder in your assets directory. Then enable the mod in settings.
 
 # Compatibility
-Tested on versions 2.0.5 and 2.0.6-pre-relase. Behavior with other versions is unknown.
+Tested on versions 2.0.5, 2.0.6-pre-relase and 2.0.7. Behavior with other versions is unknown.
 
 # Credits
 The following standalone mods were used and edited by Team HSYT:
